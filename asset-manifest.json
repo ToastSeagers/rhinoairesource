@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rhinoairesources/static/css/main.37e8ac19.css",
+    "main.js": "/rhinoairesources/static/js/main.1935f5a9.js",
+    "static/js/453.70fa82ac.chunk.js": "/rhinoairesources/static/js/453.70fa82ac.chunk.js",
+    "static/media/rhino.svg": "/rhinoairesources/static/media/rhino.cd4793a4858f497ce1f410757806618b.svg",
+    "index.html": "/rhinoairesources/index.html",
+    "main.37e8ac19.css.map": "/rhinoairesources/static/css/main.37e8ac19.css.map",
+    "main.1935f5a9.js.map": "/rhinoairesources/static/js/main.1935f5a9.js.map",
+    "453.70fa82ac.chunk.js.map": "/rhinoairesources/static/js/453.70fa82ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37e8ac19.css",
+    "static/js/main.1935f5a9.js"
+  ]
+}
